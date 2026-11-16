@@ -1,0 +1,6 @@
+{
+  "name": "SolverHUD - Real-Time TexasSolver GTO Poker Assistant",
+  "description": "Low-latency TexasSolver GTO poker HUD with live browser screen capture, Gemini Vision table parsing, Discounted CFR bet sizing analysis, EV breakdowns, and an interactive 13x13 range matrix.",
+  "requestFramePermissions": ["display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
